@@ -2,7 +2,7 @@
 
 ## WPC
 
-The WPC address is the same on all chains | `0x6F620EC89B8479e97A6985792d0c64F237566746`
+The WPC address is the same on all chains : `0x6F620EC89B8479e97A6985792d0c64F237566746`
 
 ## Ethereum
 
